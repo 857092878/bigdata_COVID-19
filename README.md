@@ -10,3 +10,5 @@ flask，爬虫，echarts，数据分析(pandas,numpy)
 图片
 
 
+
+![image](https://github.com/857092878/bigdata_COVID-19/blob/main/123456.png)
